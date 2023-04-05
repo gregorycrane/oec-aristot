@@ -1,6 +1,7 @@
 <TEI>
 <text>
 <body><div type="textpart" subtype="book" n="1"><div type="textpart" subtype="chapter" n="1"><div type="textpart" subtype="section" n="1">
+<pb n="1"/>
 <p>
 <milestone unit="bekker" n="1343a"/>
 <lb n="01"/>
@@ -46,6 +47,10 @@
 οἰκονομικὴ
 δὲ
 μοναρχία.
+</p>
+</div>
+<div type="textpart" subtype="section" n="2">
+<p>
 <lb n="05"/>
 Ἔνιαι
 μὲν
@@ -184,6 +189,12 @@
 τὸ
 ἔργον
 αὐτῆς.
+</p>
+</div>
+</div>
+<div type="textpart" subtype="chapter" n="2">
+<div type="textpart" subtype="section" n="1">
+<p>
 <lb n="18"/>
 Μέρη
 δὲ
@@ -226,7 +237,7 @@
 βοῦν
 τ’
 ἀροτῆρα.
-<pb n="1"/>
+<pb n="2"/>
 <lb n="22"/>
 Τὸ
 μὲν
@@ -264,6 +275,11 @@
 ταύτην
 εἶναι
 παρασκευάσαι.
+
+</p>
+</div>
+<div type="textpart" subtype="section" n="2">
+<p>
 <lb n="25"/>
 Κτήσεως
 δὲ
@@ -342,6 +358,11 @@
 ἀπὸ
 τῆς
 γῆς.
+
+</p>
+</div>
+<div type="textpart" subtype="section" n="3">
+<p>
 Πρὸς
 δὲ
 τούτοις
@@ -384,6 +405,12 @@
 τῶν
 ἐρυμάτων
 ἐστίν.
+</p>
+</div>
+</div>
+<div type="textpart" subtype="chapter" n="3">
+<div type="textpart" subtype="section" n="1">
+<p>
 <lb n="07"/>
 Τῶν
 δὲ
@@ -450,6 +477,10 @@
 ἡ
 κοινωνία
 συνέστηκεν.
+</p>
+</div>
+<div type="textpart" subtype="section" n="2">
+<p>
 Ἐν
 μὲν
 οὖν
@@ -457,7 +488,7 @@
 ἄλλοις
 ζῴοις
 ἀλόγως
-<pb n="2"/>
+<pb n="3"/>
 <lb n="14"/>
 τοῦτο
 ὑπάρχει,
@@ -498,6 +529,11 @@
 ἀλλήλοις
 )
 ·
+
+</p>
+</div>
+<div type="textpart" subtype="section" n="3">
+<p>
 ἐν
 ἀνθρώπῳ
 δὲ
@@ -556,6 +592,11 @@
 ἐν
 τῷ
 γήρᾳ.
+
+</p>
+</div>
+<div type="textpart" subtype="section" n="4">
+<p>
 Ἅμα
 δὲ
 <lb n="24"/>
@@ -710,7 +751,13 @@
 τὸ
 παιδεῦσαί
 ἐστιν.
-<pb n="3"/>
+<pb n="4"/>
+</p>
+</div>
+</div>
+<div type="textpart" subtype="chapter" n="4">
+<div type="textpart" subtype="section" n="1">
+<p>
 <lb n="08"/>
 Πρῶτον
 μὲν
@@ -771,6 +818,10 @@
 συνουσίαι
 <lb n="13"/>
 γιγνόμεναι.
+</p>
+</div>
+<div type="textpart" subtype="section" n="2">
+<p>
 Περὶ
 δὲ
 ὁμιλίας
@@ -809,21 +860,26 @@
 τοῦ
 Ἡσιόδου.
 <lb n="17"/>
+<l>
 παρθενικὴν
 δὲ
 γαμεῖν,
 ἵνα
 ἤθεα
 κεδνὰ
-διδάξῃς.
+διδάξῃς.</l>
 <lb n="18"/>
-Αἱ
+<l>Αἱ
 γὰρ
 ἀνομοιότητες
 τῶν
 ἠθῶν
 ἥκιστα
-φιλικόν.
+φιλικόν.</l>
+</p>
+</div>
+<div type="textpart" subtype="section" n="3">
+<p>
 Περὶ
 δὲ
 <lb n="19"/>
@@ -860,6 +916,12 @@
 πρὸς
 ἀλλήλους
 ὁμιλία.
+</p>
+</div>
+</div>
+<div type="textpart" subtype="chapter" n="5">
+<div type="textpart" subtype="section" n="1">
+<p>
 <lb n="23"/>
 Τῶν
 δὲ
@@ -906,7 +968,7 @@
 νέους,
 ἀναγκαῖον
 καὶ
-<pb n="4"/>
+<pb n="5"/>
 <lb n="28"/>
 παρασκευασάμενον
 τρέφειν
@@ -917,6 +979,10 @@
 ἔργων
 <lb n="29"/>
 προστακτέον.
+</p>
+</div>
+<div type="textpart" subtype="section" n="2">
+<p>
 Ὁμιλία
 δὲ
 πρὸς
@@ -973,6 +1039,10 @@
 ἢ
 ὀλιγάκις
 μεταδοτέον.
+</p>
+</div>
+<div type="textpart" subtype="section" n="3">
+<p>
 <lb n="35"/>
 Ὄντων
 δὲ
@@ -1055,6 +1125,10 @@
 καὶ
 περὶ
 οἰκέτας.
+</p>
+</div>
+<div type="textpart" subtype="section" n="4">
+<p>
 <lb n="07"/>
 Διόπερ
 δεῖ
@@ -1100,6 +1174,11 @@
 διὰ
 τὸ
 συνεχές.
+
+</p>
+</div>
+<div type="textpart" subtype="section" n="5">
+<p>
 <lb n="12"/>
 Γένη
 δὲ
@@ -1155,7 +1234,7 @@
 πονεῖν,
 ὅταν
 ᾖ
-<pb n="5"/>
+<pb n="6"/>
 <lb n="17"/>
 ἆθλον
 καὶ
@@ -1205,6 +1284,13 @@
 τὰ
 τοιαῦτα
 ἐνομίσθη.
+
+</p>
+</div>
+</div>
+<div type="textpart" subtype="chapter" n="6">
+<div type="textpart" subtype="section" n="1">
+<p>
 <lb n="22"/>
 Εἴδη
 δὲ
@@ -1269,6 +1355,11 @@
 ἕνεκα
 κἀκείνων
 δεόμεθα.
+
+</p>
+</div>
+<div type="textpart" subtype="section" n="2">
+<p>
 Διῃρῆσθαι
 δὲ
 δεῖ
@@ -1328,6 +1419,11 @@
 ταῖς
 μικροτέραις
 οἰκονομίαις.
+
+</p>
+</div>
+<div type="textpart" subtype="section" n="3">
+<p>
 <lb n="34"/>
 Περσικὰ
 δὲ
@@ -1395,7 +1491,7 @@
 "ὁ
 τοῦ
 δε
-<pb n="6"/>
+<pb n="7"/>
 <lb n="04"/>
 σπότου
 ὀφθαλμόσ"
@@ -1413,6 +1509,11 @@
 δεσπότου
 ἴχνη"
 ἔφη.
+
+</p>
+</div>
+<div type="textpart" subtype="section" n="4">
+<p>
 Ἐπισκεπτέον
 οὖν
 τὰ
@@ -1474,6 +1575,12 @@
 εἶναι
 τοὺς
 ἐφεστῶτας.
+
+</p>
+</div>
+<div type="textpart" subtype="section" n="5">
+<p>
+
 Ἐπεὶ
 δὲ
 ταῦτα
@@ -1532,6 +1639,12 @@
 καὶ
 φιλοσοφίαν
 χρήσιμον.
+
+</p>
+</div>
+<div type="textpart" subtype="section" n="6">
+<p>
+
 Ἐν
 μὲν
 οὖν
@@ -1601,6 +1714,11 @@
 καὶ
 τὸ
 ἐλλεῖπον.
+
+</p>
+</div>
+<div type="textpart" subtype="section" n="7">
+<p>
 Οἰκίαν
 δὲ
 <lb n="25"/>
@@ -1611,7 +1729,7 @@
 ἀποβλέποντα
 κατασκευαστέον
 καὶ
-<pb n="7"/>
+<pb n="8"/>
 <lb n="26"/>
 πρὸς
 ὑγίειαν
@@ -1694,6 +1812,11 @@
 καὶ
 μὴ
 ἰσοπλατής.
+
+</p>
+</div>
+<div type="textpart" subtype="section" n="8">
+<p>
 Δοκεῖ
 δὲ
 καὶ
@@ -1747,8 +1870,13 @@
 ὂν
 οὐ
 ζητοῖτο.
-<pb n="8"/>
->
+</p>
+</div></div></div>
+<pb n="9"/>
+<div type="textpart" subtype="book" n="2">
+    <div type="textpart" subtype="chapter" n="1">
+        <div type="textpart" subtype="section" n="1">
+    <p>
 <lb n="07"/>
 Τὸν
 οἰκονομεῖν
@@ -1822,6 +1950,10 @@
 σατραπική,
 πολιτική,
 ἰδιωτική.
+</p>
+</div>
+<div type="textpart" subtype="section" n="2">
+<p>
 Τούτων
 δὲ
 μεγίστη
@@ -1903,6 +2035,11 @@
 περὶ
 τὰ
 ἀναλώματα.
+
+</p>
+</div>
+<div type="textpart" subtype="section" n="3">
+<p>
 Τούτων
 δὲ
 ἕκαστον.
@@ -1933,7 +2070,7 @@
 τίνα
 παρὰ
 τῶν
-<pb n="9"/>
+<pb n="10"/>
 <lb n="25"/>
 σατραπῶν
 ἐν
@@ -1965,6 +2102,11 @@
 ἀντὶ
 νομίσματος
 ὤνια.
+
+</p>
+</div>
+<div type="textpart" subtype="section" n="4">
+<p>
 Δεύτερον
 δὲ
 τὴν
@@ -2095,6 +2237,11 @@
 χειρωνάξιον
 <lb n="05"/>
 προσαγορευομένη.
+
+</p>
+</div>
+<div type="textpart" subtype="section" n="5">
+<p>
 Τρίτον
 δὲ
 τὴν
@@ -2127,6 +2274,11 @@
 τῶν
 <lb n="08"/>
 ἐγκυκλίων.
+
+</p>
+</div>
+<div type="textpart" subtype="section" n="6">
+<p>
 Τέταρτον
 δὲ
 καὶ
@@ -2165,7 +2317,7 @@
 δὲ
 ταύτης
 κρα
-<pb n="10"/>
+<pb n="11"/>
 <lb n="12"/>
 τίστη
 μὲν
@@ -2218,6 +2370,10 @@
 τῶν
 προσόδων
 γίνεσθαι.
+</p>
+</div>
+<div type="textpart" subtype="section" n="7">
+<p>
 <lb n="17"/>
 Ἐπεὶ
 τοίνυν
@@ -2308,6 +2464,11 @@
 ὅλα
 μηθὲν
 βλάψει.
+
+</p>
+</div>
+<div type="textpart" subtype="section" n="8">
+<p>
 <lb n="25"/>
 Τὰ
 μὲν
@@ -2369,6 +2530,12 @@
 <lb n="31"/>
 πραγματεύῃ.
 <lb n="32"/>
+</p>
+</div>
+</div>
+<div type="textpart" subtype="chapter" n="2">
+<div type="textpart" subtype="section" n="1">
+<p>
 Κύψελος
 <del>
 ὁ
@@ -2394,7 +2561,7 @@
 αὐτοὺς
 ἀπογράψασθαι.
 Ἀπογραψαμένων
-<pb n="11"/>
+<pb n="12"/>
 <lb n="02"/>
 δὲ
 τούτων
@@ -2437,6 +2604,11 @@
 ἕτερα
 <lb n="06"/>
 κεκτῆσθαι.
+
+</p>
+</div>
+<div type="textpart" subtype="section" n="2">
+<p>
 <lb n="07"/>
 Λύγδαμις
 Νάξιος
@@ -2487,6 +2659,11 @@
 τοῦ
 πριαμένου
 ὄνομα.
+</p>
+</div>
+<div type="textpart" subtype="section" n="3">
+    <div type="textpart" subtype="subsection" n="a">
+    <p>
 <lb n="13"/>
 Βυζάντιοι
 δὲ
@@ -2629,7 +2806,12 @@
 μή,
 στέρησις
 ἦν.
-<pb n="12"/>
+
+</p>
+</div>
+<div type="textpart" subtype="subsection" n="b">
+<p>
+<pb n="13"/>
 Ὄντος
 δὲ
 νόμου
@@ -2660,6 +2842,11 @@
 τριάκοντα
 εἶναι
 πολίτην.
+
+</p>
+</div>
+<div type="textpart" subtype="subsection" n="c">
+<p>
 Ἐν
 σιτοδείᾳ
 <lb n="30"/>
@@ -2700,6 +2887,12 @@
 τὸ
 ἐπιδέκατον.
 <milestone unit="bekker" n="1347a"/>
+</p>
+</div></div>
+<div type="textpart" subtype="section" n="4">
+    <div type="textpart" subtype="subsection" n="a">
+        
+    <p>
 <lb n="01"/>
 Μετοίκων
 δέ
@@ -2765,6 +2958,11 @@
 οὕτω
 <lb n="08"/>
 συχνά.
+
+</p>
+</div>
+<div type="textpart" subtype="section" n="b">
+<p>
 Τό
 τε
 νόμισμα
@@ -2824,7 +3022,7 @@
 εἰς
 τοὺς
 λελειτουργηκότας.
-<pb n="13"/>
+<pb n="14"/>
 Τῇ
 τε
 <lb n="15"/>
@@ -2856,6 +3054,11 @@
 τὸ
 αὐτὸ
 τοῦτο.
+
+</p>
+</div></div>
+<div type="textpart" subtype="section" n="5">
+<p>
 <lb n="18"/>
 Ἀθηναῖοι
 δὲ
@@ -2916,6 +3119,11 @@
 <lb n="24"/>
 ἐπιγραφὲν
 ἕκαστος.
+
+</p>
+</div>
+<div type="textpart" subtype="section" n="6">
+<p>
 <lb n="25"/>
 Σωσίπολις
 Ἀντισσαῖος,
@@ -2976,6 +3184,10 @@
 πρὸς
 τὴν
 χρείαν.
+</p>
+</div>
+<div type="textpart" subtype="section" n="7">
+<p>
 <lb n="32"/>
 Λαμψακηνοὶ
 δὲ
@@ -3025,7 +3237,7 @@
 Τὴν
 μὲν
 οὖν
-<pb n="14"/>
+<pb n="15"/>
 <milestone unit="bekker" n="1347b"/>
 <lb n="01"/>
 ἀρχαίαν
@@ -3042,6 +3254,11 @@
 καὶ
 εὐπόρησε
 χρημάτων.
+
+</p>
+</div>
+<div type="textpart" subtype="section" n="8">
+<p>
 <lb n="03"/>
 Ἡρακλεῶται
 πέμποντες
@@ -3165,6 +3382,10 @@
 εἰς
 οἶκον
 ἀπῆλθον.
+</p>
+</div>
+<div type="textpart" subtype="section" n="9">
+<p>
 <lb n="16"/>
 Λακεδαιμόνιοι
 Σαμίων
@@ -3198,6 +3419,10 @@
 δοῦναι
 τοῖς
 Σαμίοις.
+</p>
+</div>
+<div type="textpart" subtype="section" n="10">
+<p>
 <lb n="20"/>
 Χαλκηδόνιοι
 δέ,
@@ -3225,7 +3450,7 @@
 πολιτῶν
 ἢ
 μετοίκων
-<pb n="15"/>
+<pb n="16"/>
 <lb n="23"/>
 σῦλον
 ἔχει
@@ -3292,6 +3517,11 @@
 προσόδων
 <lb n="30"/>
 ἀπεδίδου.
+
+</p>
+</div>
+<div type="textpart" subtype="section" n="11">
+    <p>
 <lb n="31"/>
 Κυζικηνοὶ
 δὲ
@@ -3320,6 +3550,10 @@
 χρήματα
 πραξαμένους
 φυγαδεῦσαι.
+</p>
+</div>
+<div type="textpart" subtype="section" n="12">
+    <p>
 <lb n="35"/>
 Χῖοι
 δέ,
@@ -3365,6 +3599,12 @@
 τὸ
 ἀρχαῖον
 εὐπορήσωσιν.
+
+</p>
+</div>
+<div type="textpart" subtype="section" n="13">
+<div type="textpart" subtype="subsection" n="a">  
+    <p>
 <lb n="04"/>
 Μαύσωλος
 ὁ
@@ -3430,6 +3670,10 @@
 καὶ
 <lb n="11"/>
 εἰσέφερον.
+    </p>
+</div>
+<div type="textpart" subtype="subsection" n="b">
+<p>
 Πάλιν
 <add>
 δὲ
@@ -3438,7 +3682,7 @@
 χρημάτων
 ἐξεκκλησιάσας
 τοῖς
-<pb n="16"/>
+<pb n="17"/>
 <lb n="12"/>
 Μυλασσεῦσιν,
 ἔλεγεν
@@ -3501,6 +3745,12 @@
 τῷ
 παρόντι
 οἰκοδομεῖν.
+
+</p>
+</div></div>
+<div type="textpart" subtype="section" n="14">
+    <div type="textpart" subtype="subsection" n="a">
+    <p>
 <lb n="18"/>
 Κόνδαλος
 Μαυσώλου
@@ -3552,6 +3802,10 @@
 ἐπικαρπίαν
 λογισάμενος
 ἀπῄτει.
+</p>
+</div>
+<div type="textpart" subtype="subsection" n="b">
+    <p>
 Τῶν
 τε
 δένδρων
@@ -3572,6 +3826,11 @@
 </add>
 τὰς
 ἐπικαρπίας.
+
+</p>
+</div>
+<div type="textpart" subtype="subsection" n="c">
+    <p>
 Τῶν
 δὲ
 στρατιωτῶν
@@ -3604,6 +3863,10 @@
 τετελεύτηκεν
 ὁ
 στρατιώτης.
+</p>
+</div>
+<div type="textpart" subtype="subsection" n="d">
+    <p>
 Τούς
 <lb n="29"/>
 τε
@@ -3640,7 +3903,7 @@
 τακτὸν
 αὐτῷ
 δοῦναι,
-<pb n="17"/>
+<pb n="18"/>
 <lb n="33"/>
 μεταπέμψασθαι
 ἐκ
@@ -3661,6 +3924,12 @@
 ἀπὸ
 ὄχλου
 πολλοῦ.
+</p>
+</div></div>
+<div type="textpart" subtype="section" n="15">
+    <div type="textpart" subtype="subsection" n="a">
+<p>
+
 <lb n="35"/>
 Ἀριστοτέλης
 Ῥόδιος
@@ -3760,6 +4029,10 @@
 αὐτοὺς
 πρὸς
 ἀλλήλους.
+</p>
+</div>
+<div type="textpart" subtype="subsection" n="b">
+<p>
 Τοῖς
 τε
 πολίταις
@@ -3827,6 +4100,12 @@
 οὐκ
 ὀλίγα
 χρήματα.
+</p>
+</div></div>
+<div type="textpart" subtype="section" n="16">
+    <div type="textpart" subtype="subsection" n="a">
+        <p>
+
 <lb n="17"/>
 Κλαζομένιοι
 δ’
@@ -3845,7 +4124,7 @@
 τῶν
 ἰδιωτῶν,
 δα
-<pb n="18"/>
+<pb n="19"/>
 <lb n="19"/>
 νεῖσαι
 τῇ
@@ -3883,6 +4162,10 @@
 τοῦ
 ἐλαίου
 τιμῆς.
+        </p>
+</div>
+        <div type="textpart" subtype="subsection" n="b">
+<p>
 Ὀφείλοντές
 <add>
 τε
@@ -3986,6 +4269,11 @@
 δὲ
 σιδηροῦς
 ἐκομίζοντο.
+</p>
+</div></div>
+<div type="textpart" subtype="section" n="17">
+<p>
+
 <lb n="33"/>
 Σηλυβριανοὶ
 δὲ
@@ -4045,6 +4333,11 @@
 καλῶς
 ἔχειν
 αὐτοῖς.
+</p>
+</div>
+<div type="textpart" subtype="section" n="18">
+<p>
+
 <lb n="03"/>
 Ἀβυδηνοὶ
 δέ,
@@ -4080,10 +4373,10 @@
 ὡς
 πρώτοις
 αὐτοῖς
-ἐσομέ
-<pb n="19"/>
+
+<pb n="20"/>
 <lb n="07"/>
-νης
+ἐσομένης
 τῆς
 κομιδῆς
 ἐκ
@@ -4096,6 +4389,11 @@
 τῶν
 <lb n="08"/>
 λειπομένων.
+
+</p>
+</div>
+<div type="textpart" subtype="section" n="19">
+<p>
 <lb n="09"/>
 Ἐφέσιοι
 δεηθέντες
@@ -4140,6 +4438,12 @@
 ἀργύριον
 ὡς
 ἀνατεθεικότος.
+</p>
+</div>
+<div type="textpart" subtype="section" n="20">
+    <div type="textpart" subtype="subsection" n="a">
+<p>
+
 <lb n="14"/>
 Διονύσιος
 Συρακούσιος
@@ -4293,7 +4597,7 @@
 τῆς
 πράξεως,
 ἐπαινέσας
-<pb n="20"/>
+<pb n="21"/>
 <lb n="30"/>
 αὐτοὺς
 ἀπέδωκεν
@@ -4320,6 +4624,11 @@
 εἰς
 τὴν
 ναυπηγίαν.
+
+    </p>
+</div>
+    <div type="textpart" subtype="subsection" n="c">
+<p>
 Οὐκ
 <lb n="33"/>
 εὐπορῶν
@@ -4355,6 +4664,11 @@
 ἀλλὰ
 μὴ
 καττιτέρινον.
+</p>
+</div>
+<div type="textpart" subtype="subsection" n="d">
+<p>
+
 Πάλιν
 τε
 <milestone unit="bekker" n="1349b"/>
@@ -4409,6 +4723,11 @@
 ἕκαστον
 ὃ
 ἠγόρασεν.
+</p>
+</div>
+<div type="textpart" subtype="subsection" n="e">
+<p>
+
 Τῶν
 τε
 πολιτῶν
@@ -4487,7 +4806,12 @@
 θῆλυ
 μὴ
 θύειν.
-<pb n="21"/>
+<pb n="22"/>
+</p>
+</div>
+<div type="textpart" subtype="subsection" n="f">
+<p>
+
 Πάλιν
 τε
 δεηθεὶς
@@ -4518,6 +4842,11 @@
 εἰς
 ἡλικίαν
 ἔλθοι.
+</p>
+</div>
+<div type="textpart" subtype="subsection" n="g">
+<p>
+
 <lb n="18"/>
 Ῥήγιόν
 τε
@@ -4605,6 +4934,12 @@
 ἐμφανῆ
 ἅπαντα
 ἔλαβε.
+
+</p>
+</div>
+<div type="textpart" subtype="subsection" n="h">
+<p>
+
 Δανεισάμενός
 τε
 παρὰ
@@ -4660,6 +4995,12 @@
 <lb n="33"/>
 πρὸς
 αὐτόν.
+
+</p>
+</div>
+<div type="textpart" subtype="subsection" n="i">
+<p>
+
 Εἰς
 Τυρρηνίαν
 τε
@@ -4747,6 +5088,13 @@
 τὰ
 ἡμίσεα
 ἀναφέρειν.
+
+</p>
+</div></div>
+<div type="textpart" subtype="section" n="21">
+    
+    <div type="textpart" subtype="subsection" n="b">
+<p>
 <lb n="06"/>
 Μενδαῖοι
 δὲ
@@ -4804,6 +5152,12 @@
 τοῖς
 χρήμασιν
 ἀποκεχρημένοι.
+
+</p>
+</div>
+<div type="textpart" subtype="subsection" n="b">
+<p>
+
 Πολεμοῦντες
 <lb n="12"/>
 <add>
@@ -4838,6 +5192,10 @@
 ἰδιώτας
 χρήματα.†
 <lb n="16"/>
+</p>
+</div>
+<div type="textpart" subtype="section" n="22">
+<p>
 Καλλίστρατος
 <add>
 Ἀθηναῖος
@@ -4897,7 +5255,15 @@
 ἕκαστος
 δύνηται
 πείθειν.
-<pb n="23"/>
+</p>
+</div></div>
+
+<div type="textpart" subtype="section" n="23">
+
+<div type="textpart" subtype="subsection" n="a">
+<p>
+
+<pb n="24"/>
 <lb n="23"/>
 Τιμόθεος
 Ἀθηναῖος
@@ -4968,6 +5334,11 @@
 ἀναφέροντας
 ἀργύριον
 λαμβάνειν.
+</p>
+</div>
+<div type="textpart" subtype="subsection" n="b">
+<p>
+
 Περὶ
 Κέρκυραν
 δὲ
@@ -5058,6 +5429,12 @@
 διῳκήσατο
 ἃ
 ἐβούλετο.
+
+</p>
+</div>
+<div type="textpart" subtype="subsection" n="c">
+<p>
+
 Σάμον
 δὲ
 πολιορκῶν
@@ -5082,6 +5459,12 @@
 τοῖς
 <lb n="07"/>
 στρατιώταις.
+
+</p>
+</div>
+<div type="textpart" subtype="subsection" n="d">
+<p>
+
 Τῶν
 τε
 ἐπιτηδείων
@@ -5098,7 +5481,7 @@
 ἀπηγόρευσε
 μὴ
 πωλεῖν
-<pb n="24"/>
+<pb n="25"/>
 <lb n="09"/>
 σῖτον
 ἀληλεσμένον
@@ -5155,6 +5538,12 @@
 τῶν
 <lb n="15"/>
 ἐπιτηδείων.
+</p>
+</div></div>
+<div type="textpart" subtype="section" n="24">
+<div type="textpart" subtype="subsection" n="a">
+<p>
+
 <lb n="16"/>
 Δατάμης
 Πέρσης
@@ -5293,6 +5682,12 @@
 ἐπιτήδεια
 μόνον
 διδούς.
+
+</p>
+</div>
+<div type="textpart" subtype="subsection" n="b">
+<p>
+
 Τούς
 <add>
 τε
@@ -5320,7 +5715,14 @@
 οὐθὲν
 τούτων
 ποιεῖν.
-<pb n="25"/>
+
+</p>
+</div></div>
+<div type="textpart" subtype="section" n="25">
+<div type="textpart" subtype="subsection" n="a">
+<p>
+
+<pb n="26"/>
 <lb n="33"/>
 Χαβρίας
 Ἀθηναῖος
@@ -5479,6 +5881,12 @@
 δέκατον
 κελεῦσαι
 ἀποτελεῖν.
+
+</p>
+</div>
+<div type="textpart" subtype="subsection" n="b">
+<p>
+
 Ἐκστρατεύειν
 δ’
 αὐτῷ
@@ -5524,13 +5932,18 @@
 <lb n="17"/>
 αὐτοῖς
 ἀποδοῦναι.
+</p>
+</div></div>
+<div type="textpart" subtype="section" n="26">
+<p>
+
 <lb n="18"/>
 Ἰφικράτης
 Ἀθηναῖος,
 Κότυος
 συναγαγόντος
 στρατιώτας,
-<pb n="26"/>
+<pb n="27"/>
 <lb n="19"/>
 ἐπόρισεν
 αὐτῷ
@@ -5568,6 +5981,10 @@
 <lb n="23"/>
 εὐπόρησε
 χρημάτων.
+</p>
+</div>
+<div type="textpart" subtype="section" n="27">
+<p>
 <lb n="24"/>
 Κότυς
 Θρᾷξ
@@ -5644,6 +6061,10 @@
 αὐτῶν,
 <lb n="32"/>
 κομίσασθαι.
+</p>
+</div>
+<div type="textpart" subtype="section" n="28">
+<p>
 <lb n="33"/>
 Μέντωρ
 Ῥόδιος
@@ -5691,6 +6112,13 @@
 παρείλετο
 ἃ
 εἶχον.
+
+</p>
+</div>
+<div type="textpart" subtype="section" n="29">
+
+<div type="textpart" subtype="subsection" n="a">
+<p>
 <milestone unit="bekker" n="1351b"/>
 <lb n="01"/>
 Μέμνων
@@ -5725,7 +6153,7 @@
 ἄλλοι
 πολῖται
 εἰσήνεγκαν,
-<pb n="27"/>
+<pb n="28"/>
 <lb n="05"/>
 ἐκέλευσε
 καὶ
@@ -5743,6 +6171,10 @@
 πάλιν
 αὐτοῖς
 ἀποδώσει.
+</p>
+</div>
+<div type="textpart" subtype="subsection" n="b">
+<p>
 Πάλιν
 τε
 δεηθεὶς
@@ -5791,6 +6223,11 @@
 ἀποδώσειν
 σὺν
 τόκῳ.
+
+</p>
+</div>
+<div type="textpart" subtype="subsection" n="c">
+<p>
 Τῶν
 τε
 στρατευομένων
@@ -5826,6 +6263,11 @@
 <lb n="15"/>
 ἐξαιρεσίμους
 λέγων.
+
+</p>
+</div>
+<div type="textpart" subtype="subsection" n="d">
+<p>
 Τόν
 τε
 πρὸ
@@ -5864,6 +6306,11 @@
 τὴν
 τριακάδα
 ἦλθεν.
+</p>
+</div></div>
+<div type="textpart" subtype="ection" n="30">
+<div type="textpart" subtype="subsection" n="a">
+<p>
 <lb n="19"/>
 Χαρίδημος
 Ὠρείτης
@@ -5894,6 +6341,15 @@
 οὐκέτι
 ἔφασαν
 ἔχειν.
+
+
+</p>
+</div></div>
+<div type="textpart" subtype="section" n="30">
+
+<div type="textpart" subtype="subsection" n="a">
+<p>
+
 Ὁ
 δὲ
 Χαρίδημος,
@@ -5940,7 +6396,7 @@
 ἀνθρώπων,
 προαγαγὼν
 αὐτοὺς
-<pb n="28"/>
+<pb n="29"/>
 <lb n="27"/>
 τῆς
 πόλεως
@@ -5960,6 +6416,10 @@
 τὸ
 χωρίον
 ἀπῆγεν.
+</p>
+</div>
+<div type="textpart" subtype="subsection" n="b">
+<p>
 Κήρυγμά
 <lb n="29"/>
 τε
@@ -6025,6 +6485,12 @@
 ἐπράττετο
 τὸ
 ἐπιτίμιον.
+</p>
+
+</div>
+</div>
+<div type="textpart" subtype="section" n="31">
+<p>
 <lb n="36"/>
 Φιλόξενός
 τις
@@ -6110,6 +6576,11 @@
 προσόν.
 †παρ’
 ἑκάστησ†
+
+</p>
+</div>
+<div type="textpart" subtype="section" n="32">
+<p>
 <lb n="09"/>
 Εὐαίσης
 Σύρος
@@ -6144,7 +6615,7 @@
 εἰσιν.
 Ἕκαστος
 οὖν
-<pb n="29"/>
+<pb n="30"/>
 <lb n="13"/>
 τῶν
 οἰκείων
@@ -6171,6 +6642,12 @@
 ἑκάστοις
 τὸν
 νεκρόν.
+
+</p>
+</div>
+<div type="textpart" subtype="section" n="33">
+    <div type="textpart" subtype="subsection" n="a">
+    <p>
 <lb n="16"/>
 Κλεομένης
 Ἀλεξανδρεὺς
@@ -6244,6 +6721,12 @@
 πεπαῦσθαι
 τῆς
 προφάσεως.
+</p>
+</div>
+<div type="textpart" subtype="subsection" n="b">
+
+    <p>
+
 Διαπλέοντος
 δ’
 αὐτοῦ
@@ -6296,6 +6779,13 @@
 καὶ
 οὕτως
 ἐπαύσατο.
+
+</p>
+</div>
+<div type="textpart" subtype="subsection" n="c">
+
+    <p>
+
 <lb n="29"/>
 Ἀλεξάνδρου
 <add>
@@ -6372,7 +6862,7 @@
 ἀπηλλάγη,
 εἶτα
 δὲ
-<pb n="30"/>
+<pb n="31"/>
 <lb n="36"/>
 καταπλεύσας,
 ἐπεὶ
@@ -6418,6 +6908,13 @@
 <lb n="04"/>
 μετῴκισεν
 αὐτούς.
+
+</p>
+</div>
+<div type="textpart" subtype="subsection" n="d">
+
+    <p>
+
 Ἀποστείλας
 τέ
 τινα
@@ -6518,6 +7015,13 @@
 ὧνπερ
 ἦν
 ἠγορακώς.
+
+</p>
+</div>
+<div type="textpart" subtype="subsection" n="e">
+
+    <p>
+
 Τοῦ
 τε
 σίτου
@@ -6560,7 +7064,7 @@
 τοῖς
 ἄλλοις,
 αὐ
-<pb n="31"/>
+<pb n="32"/>
 <lb n="19"/>
 τὸς
 δὲ
@@ -6575,6 +7079,13 @@
 <lb n="20"/>
 οὕτως
 ἐπώλει.
+
+</p>
+</div>
+<div type="textpart" subtype="subsection" n="f">
+
+    <p>
+
 Τούς
 τε
 ἱερεῖς
@@ -6639,6 +7150,13 @@
 χώραν
 καὐτὸς
 ἱερεύς.
+
+</p>
+</div>
+</div>
+<div type="textpart" subtype="section" n="34">
+    <div type="textpart" subtype="subsection" n="a">
+    <p>
 <lb n="26"/>
 Ἀντιμένης
 Ῥόδιος
@@ -6707,6 +7225,13 @@
 νόμον
 τὸν
 κείμενον.
+
+</p>
+</div>
+<div type="textpart" subtype="subsection" n="b">
+
+    <p>
+
 Πάλιν
 τε
 πορίζων
@@ -6757,7 +7282,7 @@
 τι
 ἀποδραίη
 ἀνδρά
-<pb n="32"/>
+<pb n="33"/>
 <lb n="03"/>
 ποδον,
 ἐκέλευε
@@ -6782,6 +7307,14 @@
 τῷ
 κυρίῳ
 ἀποδοῦναι.
+
+</p>
+</div>
+</div>
+<div type="textpart" subtype="section" n="35">
+
+    <p>
+
 <lb n="05"/>
 Ὀφέλας
 Ὀλύνθιος
@@ -6868,6 +7401,13 @@
 πολλαπλάσια
 αὐτὸς
 ἐλάμβανεν.
+
+</p>
+</div>
+<div type="textpart" subtype="section" n="36">
+
+    <p>
+
 <lb n="15"/>
 Πυθοκλῆς
 Ἀθηναῖος
@@ -6898,6 +7438,14 @@
 ἑξαδράχμου
 οὕτω
 πωλεῖν.
+
+
+</p>
+</div>
+<div type="textpart" subtype="section" n="37">
+
+    <p>
+
 <lb n="19"/>
 Χαβρίας·
 πληρωμάτων
@@ -6946,6 +7494,13 @@
 ἔδωκαν
 ἃ
 προσέταξεν.
+
+</p>
+</div>
+<div type="textpart" subtype="section" n="38">
+
+    <p>
+
 <lb n="24"/>
 Ἀντιμένης·
 τούς
@@ -6956,7 +7511,7 @@
 τὰς
 ὁδοὺς
 τὰς
-<pb n="33"/>
+<pb n="34"/>
 <lb n="25"/>
 βασιλικὰς
 ἀναπληροῦν
@@ -6991,6 +7546,13 @@
 ἐκ
 τῶν
 θησαυρῶν.
+
+</p>
+</div>
+<div type="textpart" subtype="section" n="39">
+
+    <p>
+
 <milestone unit="bekker" n="1353b"/>
 <lb n="01"/>
 Κλεομένης·
@@ -7052,6 +7614,14 @@
 μισθὸν
 ἀεὶ
 μηνόσ†.
+
+
+</p>
+</div>
+<div type="textpart" subtype="section" n="40">
+    <div type="textpart" subtype="subsection" n="a">
+    <p>
+
 <lb n="08"/>
 †Σταβέλβιος
 ὁ
@@ -7112,6 +7682,12 @@
 ἐκ
 τῆς
 χώρας.
+
+</p>
+</div>
+<div type="textpart" subtype="subsection" n="b">
+    <p>
+
 Τῶν
 δὲ
 ἡγεμόνων
@@ -7143,7 +7719,7 @@
 ἡγεμόνας
 ἄνευ
 ἰδιω
-<pb n="34"/>
+<pb n="35"/>
 <lb n="18"/>
 τῶν
 οὐδὲν
@@ -7158,6 +7734,15 @@
 ἐκ
 τῆς
 χώρας.
+
+
+</p>
+</div>
+</div>
+<div type="textpart" subtype="section" n="41">
+
+    <p>
+
 <lb n="20"/>
 Διονύσιος·
 τά
@@ -7230,5 +7815,5 @@
 <lb n="27"/>
 λευκίνους
 περιετίθει.
-<pb n="35"/>
-</p></div></div></div></body></text></TEI>
+</p>
+</div></div></div></body></text></TEI>
